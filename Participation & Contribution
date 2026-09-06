@@ -1,0 +1,46 @@
+# NuaRts Project / World-Station: The Stellar Ring (Technical & Conceptual Dossier)
+
+> *“The scale is a compass, not an alibi. Belief is a verb, and research must be ego-free.”*
+
+---
+
+## 1. Project Overview
+
+This repository gathers the conceptual, architectural, and philosophical specifications for our XXL space station: **a massive ring orbiting a star** (inspired by the Niven ring or partial Dyson sphere concept). 
+
+Unlike pocket laboratories confined to chemistry and passive observation (like the ISS), this megastructure aims to become a world in its own right—a sovereign ecosystem freed from terrestrial limits and propelled by the direct mastery of nuclear fire and stellar energy.
+
+---
+
+## 2. Philosophical & Strategic Pillars
+
+* **The Ego as a Regulator:** The propulsion and internal balance system does not rely on vain self-interest, but on a feedback loop where human ambition is purified of narcissism. Authentic research must be conducted without ego, much like a scale that weighs reality without seeking excuses.
+* **Belief in Action:** Believing is not a rigid dogma, but an active verb. It is a movement toward the unknown, a compass guiding humanity as it leaves an overheated Earth to find new horizons.
+* **Nuclear & Stellar Mastery:** Turning our backs on terrestrial impasses to channel pure energy directly at its source.
+
+---
+
+## 3. Ring Architecture & Technical Parameters
+
+| Key Parameter | Specification / Target |
+| :--- | :--- |
+| **Structure Type** | Circumferential megastructural ring (Planetary radius / Continental scale) |
+| **Power Source** | Direct capture of stellar radiative flux + Controlled fusion reactor network |
+| **Artificial Gravity** | Provided by centrifugal force via constant ring rotation |
+| **Construction Materials** | Advanced nanomaterials (carbon nanotubes, diamondoid structures) capable of withstanding colossal stress |
+| **Constituent Materials** | In-situ mining (asteroids and minor bodies of the stellar system) |
+
+---
+
+## 4. Repository Organization (`/docs`)
+
+```text
+├── README.md                          # General project overview (this file)
+├── philosophy/
+│   ├── boussole_et_balance.md         # Reflection on ego and artificial-free research
+│   └── l_exode_stellaire.md           # Post-terrestrial transition and cosmic spirituality
+├── engineering/
+│   ├── megastructure_design.md        # Mechanical specifications and material strength
+│   └── fusion_stellaire.md            # Energy architecture and nuclear reactors
+└── logs/
+    └── orbital_transmissions.md       # Log notes and design dialogues
